@@ -48,3 +48,10 @@ Parte 3:
 Changelog:
 Se cambiaron los modelos de las naves y se añadieron estelas.
 Se añadieron luces segun lo pedido para cada planeta.
+
+Como correr el programa:
+> Instalar las librerias:
+pip install glfw
+pip install pyopengl
+> Correr el programa
+python main.py
