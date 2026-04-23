@@ -22,3 +22,10 @@ gran descuento).
 Camara 3:
 Esta camara permite ver los anillos de Saturno. Use variables globales y flags como la camara 2.
 - Se activa con la tecla 3.
+
+Como correr el programa:
+> Instalar las librerias:
+pip install glfw
+pip install pyopengl
+> Correr el programa
+python main.py
